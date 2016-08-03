@@ -1,5 +1,12 @@
 gtrgtregtregtre
+<<<<<<< Updated upstream
 asd
 asd
 asd
 asd
+=======
+dffrefrefr
+efre
+fr
+efre
+>>>>>>> Stashed changes
